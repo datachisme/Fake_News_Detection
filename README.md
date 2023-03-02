@@ -6,17 +6,17 @@ The dataset used for this assignment comes from https://www.kaggle.com/clmentbis
 
 The notebook begins with Importing libraries, followed by exploring the data and creating additional features and using histograms to visualize the data.  
 
-Some linguistic features created for the data include:
-character count
-word count
-word density: character count / word count
-punctuation count
-title word count: number of words starting with a uppercase letter followed by all lowercase
-upper case word count: count of all words that are in all uppercase
-noun count
-pronoun count
+Some linguistic features created for the data include:<br>
+character count<br>
+word count<br>
+word density: character count / word count<br>
+punctuation count<br>
+title word count: number of words starting with a uppercase letter followed by all lowercase<br>
+upper case word count: count of all words that are in all uppercase<br>
+noun count<br>
+pronoun count<br>
+<br>
 
 The notebook then concludes with Naive Bayes and Logistic Regression models that classify the text as either Real or Fake.
-
-
+<br>
 We hope you find this project informative and useful. Please feel free to reach out if you have any questions or feedback.
